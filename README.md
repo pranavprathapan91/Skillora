@@ -2,11 +2,12 @@
 
 **Your skills, brilliantly told.**
 
-Skillora is an AI-powered resume and cover letter builder. Create professional, ATS-friendly resumes and cover letters in minutes. Run it locally for you and your family.
+Skillora is an AI-powered resume and cover letter builder. Create professional, ATS-friendly resumes and cover letters in minutes, refine them with smart suggestions, and export ready-to-send PDFs—all in one place. Run it locally for you and your family.
 
 ## Features
 
 - **Resume builder** — Contact, summary, experience, education, skills. Multiple templates (Modern, Classic, Minimal). Live preview and PDF export.
+- **Create from job description** — Paste a LinkedIn (or any) JD; we extract role, company, and skills and pre-fill a resume. No API key needed.
 - **Cover letter builder** — Job details, optional link to a resume, and AI to generate or improve your letter. PDF export.
 - **AI (OpenAI)** — "Generate with AI" for cover letters from job description + resume; "Improve with AI" for any text.
 - **Local storage** — All data stays in your browser. No account or server storage required.
